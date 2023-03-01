@@ -1,0 +1,233 @@
+<div class="front"></div>
+<!-- split -->
+<h4>Dimension</h4>
+<div class="popup-link">
+  <a href="#popup1">Dimension too small? Click here</a>
+</div>
+<div id="popup1" class="popup-container">
+  <div class="popup-content">
+    <a href="#" class="close">×</a>
+    <h3>Dimension</h3>
+    <div class="popup-img">
+      <img style="width: 100%;" src="https://cdn.shopify.com/s/files/1/0282/9562/6845/files/Shahzaib-LAF_dimension.jpg?v=1677532480" />
+      <img style="width: 100%;" src=https://cdn.shopify.com/s/files/1/0282/9562/6845/files/Shahzaib-RAF_dimension.jpg?v=1677532480" />
+    </div>
+  </div>
+</div>
+
+<div style="text-align: left;">
+  <img style="float: none;" alt="" src="https://cdn.shopify.com/s/files/1/0282/9562/6845/files/Shahzaib-LAF_dimension.jpg?v=1677532480" />
+</div>
+<div style="text-align: left;">
+  <img style="float: none;" alt="" src="https://cdn.shopify.com/s/files/1/0282/9562/6845/files/Shahzaib-RAF_dimension.jpg?v=1677532480" />
+</div>
+
+<div class="composition">
+  <h4>
+    <a href="https://jubileefurniturelv.com/pages/custom-features">
+      <h4 class="header"></h4>
+    </a>
+  </h4>
+  <h4>Composition</h4>
+  <div class="compo_context">
+    <table>
+      <tbody>
+        <tr>
+          <td>One-arm Loveseat<br></td>
+          <td>1</td>
+        </tr>
+
+        <tr>
+          <td>Corner</td>
+          <td>1</td>
+        </tr>
+
+        <!--         <tr>
+          <td>One-arm Chaise<br></td>
+          <td>1</td>
+        </tr> -->
+
+        <tr>
+          <td>Armless Chair</td>
+          <td>1</td>
+        </tr>
+
+        <tr>
+          <td>Console Table</td>
+          <td>1</td>
+        </tr>
+
+        <tr>
+          <td>One-arm Seat<br></td>
+          <td>1</td>
+        </tr>
+
+        <!--         <tr>
+          <td>Ottoman<br /></td>
+          <td>1</td>
+        </tr> -->
+
+        <!--         <tr>
+          <td>Throw Pillow</td>
+          <td>2</td>
+        </tr> -->
+      </tbody>
+    </table>
+  </div>
+</div>
+<p>Default Features: LED Light with Switch*1</p>
+<p>SKU: L6004B</p>
+
+<!-- TABS -->
+<h5>Gallery</h5>
+<div class="robin-pro" id="432eb1dd-e3a5-40ab-84d3-c9<div class="front"></div>
+<!-- split -->
+<h4>Dimension</h4>
+<div class="popup-link"><a href="#popup1">Dimension too small? Click here</a></div>
+<div id="popup1" class="popup-container">
+  <div class="popup-content">
+    <a href="#" class="close">×</a>
+    <h3>Dimension</h3>
+    <div class="popup-img">
+      <img style="width: 100%;" src="https://cdn.shopify.com/s/files/1/0282/9562/6845/files/Dimension_de788344-8a64-4221-b99f-b5d053670d1d.jpg?v=1615494281">
+    </div>
+  </div>
+</div>
+<div style="text-align: left;"><img style="float: none;" alt="" src="https://cdn.shopify.com/s/files/1/0282/9562/6845/files/Dimension_de788344-8a64-4221-b99f-b5d053670d1d.jpg?v=1615494281"></div>
+
+<div style="text-align: left;"></div>
+<div class="composition">
+  <h4><a href="https://jubileefurniturelv.com/pages/custom-features">
+      <h4 class="header"></h4>
+    </a></h4>
+  <h4>Composition</h4>
+  <div class="compo_context">
+    <table>
+      <tbody>
+        <tr>
+          <td>One-arm Chaise</td>
+          <td>2</td>
+        </tr>
+<!--         <tr>
+          <td>One-arm loveseat<br></td>
+          <td>1</td>
+        </tr> -->
+        <tr>
+          <td>Armless Sofaseat<br>
+</td>
+          <td>1</td>
+        </tr>
+<!--         <tr>
+          <td>Corner</td>
+          <td>2</td>
+        </tr>
+        
+         <tr>
+          <td>Armless Seat<br /></td>
+          <td>1</td>
+        </tr>
+
+         <tr>
+          <td>Ottoman</td>
+          <td>1</td>
+        </tr> -->
+
+        <!--   <tr>
+    <td>Console Table</td>
+    <td>1</td>
+  </tr> -->
+
+        <!-- <tr>
+<td>One-arm Loveseat （3 Seating）<br></td>
+<td>1</td>
+</tr> -->
+
+        <!--         <tr>
+          <td>One-arm Chair</td>
+          <td>1</td>
+        </tr> -->
+        <tr>
+          <td>Throw Pillow</td>
+          <td>4</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+<!-- <p>Default Features: LED Light with Switch*1</p> -->
+<p>SKU: G8018D</p>
+
+<!-- TABS -->
+<h5>Gallery</h5>
+<div class="robin-pro" id="55873371-6865-468f-8fac-868f3572471a"></div>
+
+<h5>Description</h5>
+<div id="description">
+  <h2 style="margin-bottom: 1rem;">Geode Modern Style</h2> 
+  <div class="description-para"><span style="font-weight: 400;"><span style="color: #515151; font-size: 18px;">T</span>he Geode Leather Sectional with Chaise is a stylish and sophisticated addition to any modern living room. Made with top-grain leather, this sectional is both durable and comfortable. The chaise provides ample space for lounging, while the customizable cup holders and USB ports allow for added convenience. The option to add a bed function also makes it a great choice for overnight guests. The Geode Leather Sectional with Chaise is available in a range of colors to match your existing decor. Whether you're entertaining guests or simply relaxing after a long day, this sectional is sure to provide you with the ultimate comfort and luxury.
+</span></div>
+  <ul class="card-list">
+    <li class="card">
+      <a data-image-full="https://cdn.shopify.com/s/files/1/0282/9562/6845/files/description_350_custom.jpg?v=1657661828" style="background-image: url('https://cdn.shopify.com/s/files/1/0282/9562/6845/files/description_350_custom.jpg?v=1657661828');" href="https://jubileefurniturelv.com/pages/custom-your-living-space" class="card-image" target="_blank"> <img alt="Psychopomp" src="https://cdn.shopify.com/s/files/1/0282/9562/6845/files/description_350_custom.jpg?v=1657661828"> </a> <a href="https://jubileefurniturelv.com/pages/custom-your-living-space" class="card-description" target="_blank">
+        <h2>Custom Features</h2>
+        <p>What you imagine is what you get</p>
+      </a>
+    </li>
+    <li class="card">
+      <a data-image-full="https://cdn.shopify.com/s/files/1/0282/9562/6845/files/description_350_leather.jpg?v=1657660189" style="background-image: url('https://cdn.shopify.com/s/files/1/0282/9562/6845/files/description_350_leather.jpg?v=1657660189');" href="https://jubileefurniturelv.com/pages/jubilee-secrets-on-materials" class="card-image" target="_blank"> <img alt="let's go" src="https://cdn.shopify.com/s/files/1/0282/9562/6845/files/description_350_leather.jpg?v=1657660189"> </a> <a href="https://jubileefurniturelv.com/pages/jubilee-secrets-on-materials" class="card-description" target="_blank">
+        <h2>Premium Material</h2>
+        <p>Jubilee secrets on material choices</p>
+      </a>
+    </li>
+    <li class="card">
+      <a data-image-full="https://cdn.shopify.com/s/files/1/0282/9562/6845/files/description_350_layout2.jpg?v=1657661285" style="background-image: url('https://cdn.shopify.com/s/files/1/0282/9562/6845/files/description_350_layout2.jpg?v=1657661285');" href="https://jubileefurniturelv.com/pages/about-us" class="card-image" target="_blank"> <img alt="The Beautiful Game" src="https://cdn.shopify.com/s/files/1/0282/9562/6845/files/description_350_layout2.jpg?v=1657661285"> </a> <a href="https://jubileefurniturelv.com/pages/about-us" class="card-description" target="_blank">
+        <h2>About Jubilee</h2>
+        <p>Custom furniture leader since 1999</p>
+      </a>
+    </li>
+  </ul>
+</div>
+
+<h5>Process</h5>
+<div class="banner-container"><img class="hidden-desktop" src="https://cdn.shopify.com/s/files/1/0282/9562/6845/files/process_h_b78c1451-51e1-4432-81c7-1bd1fcef8e1b.jpg?v=1676331717"></div>
+<div data-mce-fragment="1" style="text-align: center;" data-mce-style="text-align: center;"><img data-mce-fragment="1" src="https://cdn.shopify.com/s/files/1/0282/9562/6845/files/process_v.jpg?v=1676321355" alt="" style="float: none;" class="hidden-mobile" data-mce-style="float: none;" data-mce-src="https://cdn.shopify.com/s/files/1/0282/9562/6845/files/process_v.jpg?v=1676321355"></div>
+<button style="width: 0px; height: 0px; padding: 0px; margin: 0px; border: 0px; display: none;" id="paste-helper-id"></button>
+<div style="position: absolute; visibility: hidden; left: 147px; top: 261.188px; width: 251px; height: 104px;" id="gtx-anchor"></div>
+<button style="width: 0px; height: 0px; padding: 0px; margin: 0px; border: 0px; display: none;" id="paste-helper-id"></button><button id="paste-helper-id" style="width: 0px; height: 0px; padding: 0px; margin: 0px; border: 0px; display: none;"></button><button id="paste-helper-id" style="width: 0px; height: 0px; padding: 0px; margin: 0px; border: 0px; display: none;"></button><button id="paste-helper-id" style="width: 0px; height: 0px; padding: 0px; margin: 0px; border: 0px; display: none;"></button><button id="paste-helper-id" style="width: 0px; height: 0px; padding: 0px; margin: 0px; border: 0px; display: none;"></button><button id="paste-helper-id" style="width: 0px; height: 0px; padding: 0px; margin: 0px; border: 0px; display: none;"></button><button id="paste-helper-id" style="width: 0px; height: 0px; padding: 0px; margin: 0px; border: 0px; display: none;"></button><button style="width: 0px; height: 0px; padding: 0px; margin: 0px; border: 0px; display: none;" id="paste-helper-id"></button><button style="width: 0px; height: 0px; padding: 0px; margin: 0px; border: 0px; display: none;" id="paste-helper-id"></button>e944b2183e"></div>
+<h5>Description</h5>
+<div id="description">
+  <h2 style="margin-bottom: 1rem;">Shahzaib Modern Style</h2>
+  <div class="description-para"><span style="font-weight: 400;"><span style="color: #515151; font-size: 18px;">T</span>he Shahzaib Leather Sectional with Console is handmade with genuine Italian or bonded leather. Choose your preferred color leather from a selection of 10 distinct colors. This leather sectional features two built in storage spaces big enough to display books or decorative items. There is a console to store away remotes and coasters or hold your TV snacks. In the console is a LED light controlled by a wireless remote. The spacious chaise is perfect to lay down and rest after a busy day. Choose your configuration left hand facing or right-hand facing chaise to customize to your desired design. This modern sectional is a stylish and chic addition to your living space. To complete the look of your living space we recommend adding the armless chair and coffee table. Cup holders and USB ports are recommended for larger families to optimize maximum enjoyment. An additional bed function makes a great movie night with the family or space for unexpected guests. With the generous size of this sectional, family and friends will gladly socialize in comfort.
+    </span></div>
+  <ul class="card-list">
+    <li class="card">
+      <a data-image-full="https://cdn.shopify.com/s/files/1/0282/9562/6845/files/description_350_custom.jpg?v=1657661828" style="background-image: url('https://cdn.shopify.com/s/files/1/0282/9562/6845/files/description_350_custom.jpg?v=1657661828');" href="https://jubileefurniturelv.com/pages/custom-your-living-space" class="card-image" target="_blank"> <img alt="Psychopomp" src="https://cdn.shopify.com/s/files/1/0282/9562/6845/files/description_350_custom.jpg?v=1657661828"> </a> <a href="https://jubileefurniturelv.com/pages/custom-your-living-space" class="card-description" target="_blank">
+        <h2>Custom Features</h2>
+        <p>What you imagine is what you get</p>
+      </a>
+    </li>
+    <li class="card">
+      <a data-image-full="https://cdn.shopify.com/s/files/1/0282/9562/6845/files/description_350_leather.jpg?v=1657660189" style="background-image: url('https://cdn.shopify.com/s/files/1/0282/9562/6845/files/description_350_leather.jpg?v=1657660189');" href="https://jubileefurniturelv.com/pages/jubilee-secrets-on-materials" class="card-image" target="_blank"> <img alt="let's go" src="https://cdn.shopify.com/s/files/1/0282/9562/6845/files/description_350_leather.jpg?v=1657660189"> </a> <a href="https://jubileefurniturelv.com/pages/jubilee-secrets-on-materials" class="card-description" target="_blank">
+        <h2>Premium Material</h2>
+        <p>Jubilee secrets on material choices</p>
+      </a>
+    </li>
+    <li class="card">
+      <a data-image-full="https://cdn.shopify.com/s/files/1/0282/9562/6845/files/description_350_layout2.jpg?v=1657661285" style="background-image: url('https://cdn.shopify.com/s/files/1/0282/9562/6845/files/description_350_layout2.jpg?v=1657661285');" href="https://jubileefurniturelv.com/pages/about-us" class="card-image" target="_blank"> <img alt="The Beautiful Game" src="https://cdn.shopify.com/s/files/1/0282/9562/6845/files/description_350_layout2.jpg?v=1657661285"> </a> <a href="https://jubileefurniturelv.com/pages/about-us" class="card-description" target="_blank">
+        <h2>About Jubilee</h2>
+        <p>Custom furniture leader since 1999</p>
+      </a>
+    </li>
+  </ul>
+</div>
+
+<!-- <h5>Video</h5>
+<div class="responsive-video"><iframe width="560" height="315" src="https://www.youtube.com/embed/T6Ya61UZa0g" frameborder="0" allowfullscreen=""></iframe></div>
+<h4 class="header">For more product videos, please visit our <a href="https://jubileefurniturelv.com/pages/video-gallery">Video Gallery</a></h4> -->
+
+<h5>Process</h5>
+<div class="banner-container"><img class="hidden-desktop" src="https://cdn.shopify.com/s/files/1/0282/9562/6845/files/process_h_b78c1451-51e1-4432-81c7-1bd1fcef8e1b.jpg?v=1676331717"></div>
+<div data-mce-fragment="1" style="text-align: center;" data-mce-style="text-align: center;"><img data-mce-fragment="1" src="https://cdn.shopify.com/s/files/1/0282/9562/6845/files/process_v.jpg?v=1676321355" alt="" style="float: none;" class="hidden-mobile" data-mce-style="float: none;" data-mce-src="https://cdn.shopify.com/s/files/1/0282/9562/6845/files/process_v.jpg?v=1676321355"></div>
+<button style="width: 0px; height: 0px; padding: 0px; margin: 0px; border: 0px; display: none;" id="paste-helper-id"></button>
+<div style="position: absolute; visibility: hidden; left: 147px; top: 261.188px; width: 251px; height: 104px;" id="gtx-anchor"></div>
+<button style="width: 0px; height: 0px; padding: 0px; margin: 0px; border: 0px; display: none;" id="paste-helper-id"></button><button id="paste-helper-id" style="width: 0px; height: 0px; padding: 0px; margin: 0px; border: 0px; display: none;"></button><button id="paste-helper-id" style="width: 0px; height: 0px; padding: 0px; margin: 0px; border: 0px; display: none;"></button><button id="paste-helper-id" style="width: 0px; height: 0px; padding: 0px; margin: 0px; border: 0px; display: none;"></button><button id="paste-helper-id" style="width: 0px; height: 0px; padding: 0px; margin: 0px; border: 0px; display: none;"></button><button id="paste-helper-id" style="width: 0px; height: 0px; padding: 0px; margin: 0px; border: 0px; display: none;"></button><button id="paste-helper-id" style="width: 0px; height: 0px; padding: 0px; margin: 0px; border: 0px; display: none;"></button><button style="width: 0px; height: 0px; padding: 0px; margin: 0px; border: 0px; display: none;" id="paste-helper-id"></button><button style="width: 0px; height: 0px; padding: 0px; margin: 0px; border: 0px; display: none;" id="paste-helper-id"></button>
