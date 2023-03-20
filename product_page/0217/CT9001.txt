@@ -1,0 +1,24 @@
+<p style="text-align: center;"><strong>Buying&nbsp;Modern&nbsp;Furniture&nbsp;In&nbsp;Las&nbsp;Vegas</strong></p>
+<div class="product-info-main">
+<div class="product info detailed">
+<div class="product data items" role="tablist">
+<div class="data item content" id="description" data-role="content" aria-labelledby="tab-label-description" role="tabpanel" aria-hidden="false">
+<div class="product attribute description">
+<div class="value">The Widil coffee table is a perfect accent piece for our sectional sofa, but it can also be used to compliment any of our other sofa models. It is handmade with&nbsp;bonded leather and is available in 10 distinct colors.</div>
+<div class="value">
+<ul>
+<li>Availability: 8-10 Week Delivery</li>
+<li>Coffee Table Base (No Assembly Required)</li>
+<li>Black Tinted Tempered Glass (0.5" Thick)</li>
+<li>SKU:CT9001</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="product media"><a id="gallery-prev-area" tabindex="-1"></a><span></span>
+<div class="action-skip-wrapper"><img alt="" src="https://cdn.shopify.com/s/files/1/0282/9562/6845/files/Dimension_f3f1b8dc-5512-40be-afc0-6545fe3520c4_600x600.jpg?v=1647293521"></div>
+</div>
+<button id="paste-helper-id" style="width: 0px; height: 0px; padding: 0px; margin: 0px; border: 0px; display: none;"></button>
