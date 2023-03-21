@@ -1,18 +1,18 @@
 <p><br></p>
 <!-- TABS -->
 <h5>Description</h5>
-<p style="text-align: center;"><strong>Buying Modern Furniture In Las Vegas</strong></p>
-<p>The Halsey Leather Sectional with Console Table is handmade with genuine Italian or bonded leather. This large leather sectional is sleek and suits any modern living space. Its modular design can be customized to a configuration that fits your unique space - whether it is your living room or family room. Armrests are included to hold drinks and personal items. Each top headrest is adjustable. Halsey features a console big enough to hold drinks and store remotes, it also features an LED light controlled by a wireless remote. Choose your configuration left hand facing or right-hand facing chaise to customize to your desired design.<span>&nbsp;</span><strong>This sleek, comfortable sectional is a must have for every contemporary home</strong>. To complete the look of your living space we recommend adding the armless chair and coffee table. Cup holders and USB ports are recommended for larger families to optimize maximum enjoyment. An additional bed function makes a great movie night with the family or space for unexpected guests. With the generous size of this sectional, family and friends will gladly socialize in comfort.</p>
+<p style="text-align: center;"><strong>Buying&nbsp;Modern&nbsp;Furniture&nbsp;In&nbsp;Las&nbsp;Vegas</strong></p>
+<p>The Talos Modern Leather Sectional is handmade with genuine Italian or bonded leather. Choose your preferred color leather from a selection of 10 distinct colors. This leather sectional features two built in storage spaces big enough to display books or decorative items. Each top headrest is adjustable. This modern sectional is a stylish and chic addition to your living space. To complete the look of your living space we recommend adding the armless chair and coffee table. Cup holders and USB ports are recommended for larger families to optimize maximum enjoyment. An additional bed function makes a great movie night with the family or space for unexpected guests. With the generous size of this sectional, family and friends will gladly socialize in comfort.</p>
 <p style="text-align: center;">&nbsp;</p>
 <ul>
-<li><strong><span style="color: #ff2a00;">Sets Include 1 Sectional (1*LAF/RAF Loveseat with 1 Console Table+1*LAF/RAF Loveseat +1*Corner),2 Throw Pillows. Decorative items are not included.</span></strong></li>
+<li><span><strong><span style="color: #ff2a00;">Sets Include 1 Sectional (1*LAF/RAF Loveseat with 1 Console Table+1*LAF/RAF Loveseat +1*Corner),5 Throw Pillows. Decorative items are not included.</span></strong><br></span></li>
 <li><span>Special Order Takes 8-16 Weeks.<em><strong><a href="https://jubileefurniturelv.com/blogs/news/why-need-12-weeks-delivery">👉Click here</a></strong></em></span></li>
 <li><span></span>US -Nationwide Shipping</li>
-<li>SKU:L6004B</li>
+<li>SKU:G8010B</li>
 </ul>
 <div style="text-align: left;"><br></div>
 <h5>Dimension</h5>
-<p style="text-align: center;">&nbsp;<img src="https://cdn.shopify.com/s/files/1/0282/9562/6845/files/L6004B-SIZE_1400x_169fb681-b4c1-4ca1-9d2b-ca7d3fb6e718.jpg?v=1661467038" alt="" data-mce-fragment="1" data-mce-src="https://cdn.shopify.com/s/files/1/0282/9562/6845/files/L6004B-SIZE_1400x_169fb681-b4c1-4ca1-9d2b-ca7d3fb6e718.jpg?v=1661467038"></p>
+<p style="text-align: center;">&nbsp;<img data-mce-fragment="1" alt="" src="https://cdn.shopify.com/s/files/1/0282/9562/6845/files/G8010B-1.jpg?v=1646420431" data-mce-src="https://cdn.shopify.com/s/files/1/0282/9562/6845/files/G8010B-1.jpg?v=1646420431"></p>
 <h5>Detail Info</h5>
 <p style="text-align: center;"><strong>Jubilee Furniture Choice in Leather</strong></p>
 <p>Jubilee Furniture strives to deliver the best quality leather that we use in our furniture whether it be a sectional, sofa set and bedroom sets. We also value our customers input and comments. Based on the majority of our clients that have purchased our Italian leathers, their feedback has always been good – as in “happy with the quality of the leather,” “it’s very soft to the touch,” “love the modern design with the power reclining and adjustable headrest,” and much more. (please check our website for more comments). But of course, we want to accommodate our other clients that would like to spend within their budgets and has opted for bonded Leather. &nbsp;</p>
@@ -98,7 +98,7 @@
 <p><br><strong><u>Credit Card (VISA, MASTERCARD, DISCOVER AND AMERICAN EXPRESS)</u></strong><br>Credit Card Information (Credit Card#, Expiration Date and CVS#)<br>Note: Additional information may be required if Billing Address is different from Shipping Address</p>
 <p><strong><u>Bank Transfer</u></strong><br>Call 702-413-1253 for more information</p>
 <p><br><strong><u>PayPal</u></strong><br>Use your PayPal account for an easy payment</p>
-<p><br><strong><u>Jubilee Furniture Special Payment Plan</u></strong><br>Buy now, pay 50% down payment, pay the balance before delivery.</p>
+<p><br><strong><u>Jubilee Furniture Special Payment Plan</u></strong><br>Buy now, pay 60% down payment, pay the balance before delivery.</p>
 <p>(Requirement: Email us a copy of Credit Card to be used and Cardholders Driver’s License)</p>
 <p>Note: Additional information may be required if Billing Address is different from Shipping Address</p>
 <h5>FAQ</h5>
@@ -111,7 +111,7 @@
 <p><strong><b>Why does it take 6-12 weeks to get my Order?</b></strong><strong><b>&nbsp;</b></strong></p>
 <p><em><i>Please see more info in our Blog.👉<strong><a href="https://jubileefurniturelv.com/blogs/news/why-need-12-weeks-delivery">Click here</a></strong></i></em></p>
 <p><strong><b>How much is Shipping Cost?</b></strong></p>
-<p>Normally,shipping cost is from $99.00 to $399.00.Type in your address when you are in the process of checking out and the system will automatically calculate the shipping cost.</p>
+<p>Normally,shipping cost is from $99.00 to $449.00.Type in your address when you are in the process of checking out and the system will automatically calculate the shipping cost.</p>
 <p><strong><b>Can I Customize my Sectional or Sofa Set?</b></strong><strong><b>&nbsp;&nbsp;</b></strong></p>
 <p>Yes – You can have your preference on Size, Material, Color and Add ons</p>
 <p><strong><b>What is the difference between Italian Leather and Bonded Leather?</b></strong><strong><b>&nbsp;&nbsp;</b></strong></p>
