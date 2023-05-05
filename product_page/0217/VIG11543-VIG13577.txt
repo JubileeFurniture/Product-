@@ -1,0 +1,59 @@
+<p><br></p>
+<!-- TABS -->
+<h5>Description</h5>
+<h2 style="text-align: center;">Carter Dining set</h2>
+<ul>
+<li><strong><span style="color: #ff2a00;">In stock item will be shipped out within 1-2 weeks. </span></strong></li>
+<li><strong>Dining Set<span> </span><span style="color: #ff2a00;">includes 1* Dining Table+ 4* Dining Chairs</span></strong></li>
+<li><strong>Decorative items are not included.</strong></li>
+</ul>
+<p>Carter dining set is a simple and sleek addition to your dining space. With the white top, messes are easily cleanable and give a hint of sophistication to your dining room. The polished steel bottom ensures your table is crafted with expert design to make your dining table durable. With the white neutral color, this dining table can easily be dressed up or down. </p>
+<table>
+<tbody>
+<tr>
+<td width="319">
+<p><strong><b>Dimension</b></strong></p>
+</td>
+<td width="319">
+<p><strong><b> Dining Table: <span>73"/104"x39"x30"</span></b></strong></p>
+<p><strong><b><span> Dining Chairs: W19" x D24" x H39"</span></b></strong></p>
+</td>
+</tr>
+<tr>
+<td width="319">
+<p><strong><b>Spotlight Features</b></strong></p>
+</td>
+<td width="319">
+<ul>
+<li><strong>Polished steel bottom</strong></li>
+<li><strong>Sturdy quadratic high gloss base</strong></li>
+<li><strong>Matching chairs available in white or black</strong></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td width="319">
+<p><strong><b>Product ID</b></strong></p>
+</td>
+<td width="319"><strong>11543|13577</strong></td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<button style="width: 0px; height: 0px; padding: 0px; margin: 0px; border: 0px; display: none;" id="paste-helper-id"></button>
+<h5>Payment</h5>
+<p>Payment can be made by one or more of the following methods:</p>
+<ol>
+<li>
+<span></span>Credit card</li>
+<li>
+<span></span>60-40 Payment Plan</li>
+<li>
+<span></span>Financing with Affirm or Synchrony</li>
+<li>
+<span></span>ACH Bank Transfer</li>
+</ol>
+<p>More information can be found on our <span><a href="https://jubileefurniturelv.com/pages/financing"><u>Financing</u></a></span> page.</p>
+<button id="paste-helper-id" style="width: 0px; height: 0px; padding: 0px; margin: 0px; border: 0px; display: none;"></button>
+<ul><!-- /TABS --></ul>
+<button id="paste-helper-id" style="width: 0px; height: 0px; padding: 0px; margin: 0px; border: 0px; display: none;"></button><button id="paste-helper-id" style="width: 0px; height: 0px; padding: 0px; margin: 0px; border: 0px; display: none;"></button>
